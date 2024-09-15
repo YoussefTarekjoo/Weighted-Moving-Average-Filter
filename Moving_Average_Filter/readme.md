@@ -42,7 +42,7 @@ Averaging: The weighted values are summed and then divided by the sum of the wei
 
 - Transposed Form
 
-![FIR_Transposed_Form](image\transposed_form.png)
+![FIR_Transposed_Form](\image\transposed_form.png)
 
 *Figure 2: Transposed_Form*
 
