@@ -35,7 +35,7 @@ Averaging: The weighted values are summed and then divided by the sum of the wei
 
 - Direct Form
 
-![FIR_Dirct_Form](Moving_Average_Filter/image/dirct_form.png)
+![FIR_Dirct_Form](./Moving_Average_Filter/image/dirct_form.png)
 
 *Figure 1: Dirct_Form*
 
