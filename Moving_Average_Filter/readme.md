@@ -42,7 +42,7 @@ Averaging: The weighted values are summed and then divided by the sum of the wei
 
 - Transposed Form
 
-![FIR_Transposed_Form](/image/transposed_form.png)
+![FIR_Transposed_Form](./image/transposed_form.png)
 
 *Figure 2: Transposed_Form*
 
@@ -52,7 +52,7 @@ Averaging: The weighted values are summed and then divided by the sum of the wei
 
 - we need to design a weighted moving average filter in direct-form with H = [1  0.5  0.25  0.125] with Fs = 100 MHz.
 
-![Weighted Moving Average Filter](image\weighted.png)
+![Weighted Moving Average Filter](./image/weighted.png)
 
 *Figure 3: Weighted Moving Average Filter*
 
@@ -62,7 +62,7 @@ Averaging: The weighted values are summed and then divided by the sum of the wei
 
 ## Wave_form
 
-![wave_form](image\wave_form.png)
+![wave_form](./image/wave_form.png)
 
 *Figure 4: Wave_Form*
 
