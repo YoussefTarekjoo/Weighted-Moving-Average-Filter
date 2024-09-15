@@ -1,0 +1,70 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1726301282
+VHG8l8@6ofo^YZb_d@oDb00
+04 6 4 work FIR_TB fast 0
+=1-b445067b9ba4-66e54460-390-408
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vFIR_Filter
+Z1 !s110 1726301279
+!i10b 1
+!s100 Vo^NoTV4Jc=BWiLn?TAAL2
+I7AC^bYc_ASAT9=GU^iBfi3
+Z2 dC:/Moving_Average_Filter
+w1726295154
+8FIR.v
+FFIR.v
+!i122 0
+L0 1 44
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z5 !s108 1726301279.000000
+Z6 !s107 FIR_tb.v|FIR.v|
+Z7 !s90 -reportprogress|300|FIR.v|FIR_tb.v|+cover|-covercells|
+!i113 0
+Z8 !s102 +cover -covercells
+Z9 o+cover -covercells -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@f@i@r_@filter
+vFIR_TB
+R1
+!i10b 1
+!s100 2S<_CkBdGS84aE3EQ]fl;3
+Ia7YbP8U8YHfdn>[PJDAEc2
+R2
+w1726296135
+8FIR_tb.v
+FFIR_tb.v
+!i122 0
+L0 1 38
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R9
+R0
+n@f@i@r_@t@b
